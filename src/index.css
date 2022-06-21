@@ -1,6 +1,4 @@
 
-/* Si no esta esto rompe el estilo de tailwind, no se porque me aparece con problemas */
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
